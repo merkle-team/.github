@@ -2,7 +2,7 @@
 
 ### An app for the [Farcaster](https://farcaster.xyz) decentralized social network
 
-#### [warpcast.com](https://warpcast.com)
+#### [farcaster.xyz](https://farcaster.xyz)
 
 </div>
 
