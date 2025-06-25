@@ -1,3 +1,3 @@
 # Farcaster
 
-https://faracaster.xyz
+https://farcaster.xyz
