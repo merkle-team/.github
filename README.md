@@ -1,3 +1,3 @@
-# Warpcast
+# Farcaster
 
-https://warpcast.com
+https://faracaster.xyz
