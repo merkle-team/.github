@@ -1,6 +1,6 @@
 <div align="center">
 
-### An app for the [Farcaster](https://farcaster.xyz) decentralized social network
+### Building the [Farcaster](https://farcaster.xyz) decentralized social network
 
 #### [farcaster.xyz](https://farcaster.xyz)
 
