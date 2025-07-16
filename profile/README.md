@@ -1,6 +1,6 @@
 <div align="center">
 
-### Building the [Farcaster](https://farcaster.xyz) decentralized social network
+### Building the [Farcaster](https://docs.farcaster.xyz/learn/) decentralized social network
 
 #### [farcaster.xyz](https://farcaster.xyz)
 
